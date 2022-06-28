@@ -8,11 +8,7 @@ The purpose of this project is to create one function that takes in the three fi
 
 After completing the extract, transform, and load process, we have a database with two tables: movies and ratings.
 
-Movies
-
 [Movies](/Resources/movies_query.PNG)
-
-Ratings
 
 [Ratings](/Resources/ratings_query.PNG)
 
